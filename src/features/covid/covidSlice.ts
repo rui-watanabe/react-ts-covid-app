@@ -17,7 +17,7 @@ type covidState = {
 
 const initialState: covidState = {
   data: dataJson,
-  country: "",
+  country: "japan",
   dataDaily: dataJsonDaily,
 };
 
